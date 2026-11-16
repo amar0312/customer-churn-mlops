@@ -3,3 +3,5 @@ mlops_env/
 __pycache__/
 .env
 /WA_Fn-UseC_-Telco-Customer-Churn.csv
+.dvc/
+.dvcignore

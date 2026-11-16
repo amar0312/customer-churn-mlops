@@ -1,0 +1,5 @@
+mlops_env/
+.ipynb_checkpoints/
+__pycache__/
+.env
+/WA_Fn-UseC_-Telco-Customer-Churn.csv
